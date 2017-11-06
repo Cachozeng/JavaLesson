@@ -1,4 +1,4 @@
-@each off
+@echo off
 d:
 cd D:\eclipse-workspace\JavaLesson
 git branch branch1
